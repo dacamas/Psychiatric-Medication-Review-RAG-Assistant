@@ -2,6 +2,7 @@
 RAG system for psychiatric medication Q&amp;A — FAISS vector search,  MiniLM embeddings, hybrid retrieval, MRR 1.0 on evaluation set
 [https://colab.research.google.com/github.com/dacamas/Psychiatric-Medication-Review-RAG-Assistant/blob/main/Psychiatric_Medication_Review_RAG_Assistant.ipynb
 ](https://colab.reserach.google.com/github/dacamas/Psychiatric-Medication-Review-RAG-Assistant/blob/main/Psychiatric_Medication_Review_RAG_Assistant.ipynb)
+
 🧠 Psychiatric Medication Review RAG Assistant
 A production-style Retrieval-Augmented Generation (RAG) system that answers
 questions about psychiatric medications using real patient reviews — not hallucinated
